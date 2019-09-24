@@ -1,4 +1,4 @@
-function DisplayElements(heatTransferElements) { // DisplayElements takes in an array of sticky note objects and displays them as bootstrap card elements.
+function DisplayElements(heatTransferElements) { // DisplayElements takes in an array of heat transfer objects and displays them as bootstrap card elements.
     var totalWatts = 0;
     var myResultInstance = 0;
     let listHTML = `<div class ="row" style = "padding-top:0rem; padding-bottom:7rem;">`;
