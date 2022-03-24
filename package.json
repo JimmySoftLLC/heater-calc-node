@@ -18,7 +18,7 @@
         "https": "^1.0.0",
         "jquery": "^3.5.0",
         "kind-of": "^6.0.3",
-        "minimist": "^1.2.5",
+        "minimist": "^1.2.6",
         "node-pre-gyp": "^0.14.0",
         "nodemon": "^1.19.4",
         "popper.js": "^1.16.1",
